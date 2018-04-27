@@ -13,3 +13,7 @@ And also requires a nifti package:
 To run this code i have included a simple anatomy (a very low resolution anatomical file) so simply run this within this folder to check out the outputs!
 
 toy_example.py 
+
+This of course is just a way to read in the images you can also use a more sophisticated program to navigate through the images: https://www.nitrc.org/projects/mricron (and there are many more programs!).
+
+
